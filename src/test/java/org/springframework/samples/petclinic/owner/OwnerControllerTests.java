@@ -71,6 +71,7 @@ class OwnerControllerTests {
 		george.setFirstName("George");
 		george.setLastName("Franklin");
 		george.setAddress("110 W. Liberty St.");
+		george.setAge(30);
 		george.setCity("Madison");
 		george.setTelephone("6085551023");
 		Pet max = new Pet();
